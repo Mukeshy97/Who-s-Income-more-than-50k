@@ -1,4 +1,4 @@
-# Who-s-Income-more-than-50k
+# Who's-Income-more-than-50k
 Using Machine learning Performed a logistic regression model to see which features contribute more to the income over a sample size of 33,000, I do some data exploration,
 visualisation and then model building using R Studio, with 82.40% accuracy. The conclusion drew various factors like Marital status, Working Hours and Gender really matters 
 if you want to earn more than 50K per year.
